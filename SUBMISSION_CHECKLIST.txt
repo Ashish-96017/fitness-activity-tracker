@@ -1,0 +1,37 @@
+FITNESS ACTIVITY TRACKER - SUBMISSION CHECKLIST
+
+Student: SHAKORIYA ASHISH VIJAYBHAI
+Enrollment: IU2441230435
+Domain: Sports & Fitness
+Problem Statement: Maintain daily fitness activity records and provide progress analysis.
+Submission date: 08-10-2026
+
+COMPLETED
+[OK] Activity recording
+[OK] Search/filter
+[OK] Duration and distance calculations
+[OK] Activity-type comparison
+[OK] Seven-day period comparison
+[OK] Trend identification
+[OK] Two Matplotlib visual reports
+[OK] Python functions/data structures
+[OK] CSV persistent storage
+[OK] Four user-defined modules
+[OK] Pandas + NumPy
+[OK] Tkinter GUI
+[OK] Input validation
+[OK] Exception handling
+[OK] Unit testing
+[OK] README documentation
+[OK] Project report with UI/output screenshots
+
+BEFORE FINAL SUBMISSION
+[ ] Upload the project to GitHub.
+[ ] Replace the GitHub placeholder/link wherever required in the submission tracker.
+[ ] Paste the final GitHub repository URL into the university tracker.
+[ ] Upload the project report soft copy in the provided link.
+[ ] Keep the final report file below the university's 10 MB upload limit.
+[ ] During viva, demonstrate the GUI and show the GitHub repository.
+
+NOTE
+The official university tracker was not included with the files available in this chat, so it could not be edited directly. Do not submit this checklist as a replacement for the official tracker.

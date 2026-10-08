@@ -1,0 +1,33 @@
+FITNESS ACTIVITY TRACKER & PROGRESS ANALYZER
+============================================
+
+This is the complete runnable Python/Tkinter project for the Sports & Fitness guided project.
+
+WINDOWS - EASIEST WAY
+----------------------
+1. Make sure Python 3.10+ is installed and added to PATH.
+2. Double-click START_PROJECT.bat
+3. The script installs the required Python packages (if needed) and opens the Tkinter app.
+
+MANUAL WAY
+----------
+Open Command Prompt in this folder and run:
+
+    python -m pip install -r requirements.txt
+    python main.py
+
+TESTS
+-----
+    python -m unittest discover -s tests -v
+
+IMPORTANT
+---------
+This project uses a Tkinter desktop GUI, so it runs as a local desktop application rather than
+opening a localhost URL in a browser.
+
+Data is saved in:
+    data/activities.csv
+
+Charts are saved in:
+    reports/activity_trend.png
+    reports/activity_comparison.png

@@ -1,0 +1,14 @@
+id,date,activity_type,duration_minutes,distance_km,notes
+1,2026-09-20,Walking,35.0,2.8,Morning walk
+2,2026-09-21,Running,28.0,4.2,Easy run
+3,2026-09-22,Cycling,45.0,12.5,Evening cycling
+4,2026-09-24,Walking,50.0,4.0,Campus walk
+5,2026-09-25,Running,32.0,5.0,Interval practice
+6,2026-09-27,Cycling,55.0,15.8,Weekend ride
+7,2026-09-28,Walking,40.0,3.1,Recovery day
+8,2026-09-29,Running,35.0,5.4,Tempo run
+9,2026-10-01,Cycling,48.0,13.6,Evening ride
+10,2026-10-02,Walking,42.0,3.5,Low intensity
+11,2026-10-03,Running,30.0,4.8,Steady run
+12,2026-10-04,Cycling,60.0,17.2,Long ride
+13,2026-10-08,Running,150.0,10.0,NOTHING
